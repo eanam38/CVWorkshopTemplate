@@ -1,13 +1,22 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
+    degreepath: MD-PhD
+    institution: Harvard University
+    department: History of Science
+    advisors: David Jones, Eram Alam, Shigehisa Kuriyama, George Aumoithe 
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    years: 2021 - Present
     notes: In Progress
+
+ - type: education
+    degreepath: MPhil
+    institution: University of Cambridge
+    department: Health, Medicine, and Society
+    advisors: Johannes Lenhard 
+    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2020 - 2021
+  
     
   - type: job
     title: Example Job # for type.employment.
