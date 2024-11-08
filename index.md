@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Eana Xuyi Meng is a physician-historian in training at Harvard University. 
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Digital Health Humanities:**
 
 {% include_relative _includes/education.md %}
 
