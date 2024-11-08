@@ -9,7 +9,7 @@ main:
     years: 2021 - Present
     notes: In Progress
 
- - type: education
+  - type: education
     degreepath: MPhil
     institution: University of Cambridge
     department: Health, Medicine, and Society
